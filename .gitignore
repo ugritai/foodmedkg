@@ -232,7 +232,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
-data/kg_edits/
+# kg_edits: backups written by the scripts when run; unused script
+data/kg_edits/__pycache__/
+data/kg_edits/*_backup.json
+data/kg_edits/fixed_traced_errors.json
+data/kg_edits/removed_edges.json
+data/kg_edits/remove_rejected_edge.py
 survey/paper/
 
 # RecipeNLG corpus (2.3 GB, Kaggle: paultimothymooney/recipenlg); not redistributed

@@ -93,11 +93,10 @@ documents in its header what it changes and why. Run them in this order:
 | 5 | `add_fruit_juices.py` | The "Fruit juices" healthy-ageing category lost in the original build |
 | 6 | `add_mixed_effects.py` | Relations whose sources report both beneficial and harmful effects |
 | 7 | `add_association_scope.py` | Whether each association was reported for the food or derived from its group (`affects_scope.csv`) |
-| 8 | `remove_rejected_edge.py` | Removes the relation rejected in the human evaluation (item I068) |
-| 9 | `add_consensus.py` | Consensus grades from the human evaluation |
-| 10 | `fix_energy_units.py` | Energy labelled `kJ/100 g`: the values are kJ, but were labelled with the unit of the original record (kcal or mg) |
+| 8 | `add_consensus.py` | Consensus grades from the human evaluation |
+| 9 | `fix_energy_units.py` | Energy labelled `kJ/100 g`: the values are kJ, but were labelled with the unit of the original record (kcal or mg) |
 
-Steps 8 and 9 use the results of the human evaluation. Step 9 reads
+Step 8 uses the results of the human evaluation. It reads
 `survey/analysis/results/consensus_grades.csv`, produced by
 `survey/analysis/run_all.py` from the survey responses
 ([Google Drive](https://drive.google.com/drive/folders/1FeyDIut6ksEiC9HC-KRVrcTrvrxaqQ7q?usp=sharing); see
