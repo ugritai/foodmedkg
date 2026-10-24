@@ -1,0 +1,284 @@
+{
+  "recipes": [
+    {
+      "name": "scrambled eggs",
+      "expected_ingredients": ["egg","butter","milk"],
+      "ingredient_variants": [
+        ["egg","butter"],
+        ["egg","butter","cream","chive"]
+      ]
+    },
+    {
+      "name": "tomato soup",
+      "expected_ingredients": ["tomato","onion","garlic","olive oil","basil"],
+      "ingredient_variants": [
+        ["tomato","onion","garlic","olive oil","cream"],
+        ["tomato","onion","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "oatmeal",
+      "expected_ingredients": ["oat","milk","banana","honey"],
+      "ingredient_variants": [
+        ["oat","water","banana","honey"],
+        ["oat","milk","apple","cinnamon"]
+      ]
+    },
+    {
+      "name": "chicken noodle soup",
+      "expected_ingredients": ["chicken","pasta","carrot","celery","onion","garlic"],
+      "ingredient_variants": [
+        ["chicken","noodle","carrot","celery","onion"],
+        ["chicken","pasta","carrot","onion","garlic","parsley"]
+      ]
+    },
+    {
+      "name": "pasta aglio e olio",
+      "expected_ingredients": ["pasta","garlic","olive oil","parsley"],
+      "ingredient_variants": [
+        ["pasta","garlic","olive oil","parsley","chili"],
+        ["pasta","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "fried rice",
+      "expected_ingredients": ["rice","egg","carrot","onion","soy sauce"],
+      "ingredient_variants": [
+        ["rice","egg","onion","garlic","soy sauce","pea"],
+        ["rice","egg","carrot","onion","garlic"]
+      ]
+    },
+    {
+      "name": "hummus",
+      "expected_ingredients": ["chickpea","olive oil","lemon","garlic","tahini"],
+      "ingredient_variants": [
+        ["chickpea","olive oil","lemon","garlic"],
+        ["chickpea","olive oil","lemon","garlic","tahini","cumin"]
+      ]
+    },
+    {
+      "name": "guacamole",
+      "expected_ingredients": ["avocado","lemon","onion","tomato"],
+      "ingredient_variants": [
+        ["avocado","lime","onion","tomato","cilantro"],
+        ["avocado","lemon","onion","garlic"]
+      ]
+    },
+    {
+      "name": "fruit salad",
+      "expected_ingredients": ["apple","orange","banana","grape"],
+      "ingredient_variants": [
+        ["apple","orange","banana","strawberry"],
+        ["apple","orange","banana","grape","kiwi"]
+      ]
+    },
+    {
+      "name": "grilled cheese sandwich",
+      "expected_ingredients": ["bread","cheese","butter"],
+      "ingredient_variants": [
+        ["bread","cheese","butter","tomato"],
+        ["bread","cheddar","butter"]
+      ]
+    },
+    {
+      "name": "pasta marinara",
+      "expected_ingredients": ["pasta","tomato","garlic","olive oil","basil"],
+      "ingredient_variants": [
+        ["pasta","tomato","garlic","olive oil"],
+        ["pasta","tomato","onion","garlic","olive oil","basil"]
+      ]
+    },
+    {
+      "name": "vegetable soup",
+      "expected_ingredients": ["carrot","potato","celery","onion","tomato","garlic"],
+      "ingredient_variants": [
+        ["carrot","potato","onion","tomato","garlic","zucchini"],
+        ["carrot","potato","celery","onion","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "baked potato",
+      "expected_ingredients": ["potato","butter","cheese"],
+      "ingredient_variants": [
+        ["potato","butter","cheese","sour cream"],
+        ["potato","olive oil","cheese"]
+      ]
+    },
+    {
+      "name": "pancakes",
+      "expected_ingredients": ["flour","egg","milk","butter","sugar"],
+      "ingredient_variants": [
+        ["flour","egg","milk","butter","baking powder"],
+        ["flour","egg","milk","butter","sugar","vanilla"]
+      ]
+    },
+    {
+      "name": "corn salad",
+      "expected_ingredients": ["corn","tomato","onion","olive oil","lemon"],
+      "ingredient_variants": [
+        ["corn","tomato","onion","olive oil","lime"],
+        ["corn","tomato","onion","bell pepper","olive oil"]
+      ]
+    },
+    {
+      "name": "mushroom omelette",
+      "expected_ingredients": ["egg","butter","mushroom"],
+      "ingredient_variants": [
+        ["egg","butter","mushroom","cheese"],
+        ["egg","butter","mushroom","onion"]
+      ]
+    },
+    {
+      "name": "baked salmon",
+      "expected_ingredients": ["salmon","lemon","olive oil","garlic"],
+      "ingredient_variants": [
+        ["salmon","lemon","butter","garlic"],
+        ["salmon","lemon","olive oil","garlic","parsley"]
+      ]
+    },
+    {
+      "name": "stir-fried vegetables",
+      "expected_ingredients": ["broccoli","carrot","bell pepper","garlic","soy sauce"],
+      "ingredient_variants": [
+        ["broccoli","carrot","bell pepper","garlic","ginger","soy sauce"],
+        ["broccoli","carrot","onion","garlic","soy sauce"]
+      ]
+    },
+    {
+      "name": "egg salad",
+      "expected_ingredients": ["egg","mayonnaise","celery","onion"],
+      "ingredient_variants": [
+        ["egg","mayonnaise","celery","onion","mustard"],
+        ["egg","mayonnaise","onion","lemon"]
+      ]
+    },
+    {
+      "name": "potato salad",
+      "expected_ingredients": ["potato","mayonnaise","onion","celery"],
+      "ingredient_variants": [
+        ["potato","mayonnaise","onion","celery","egg"],
+        ["potato","mayonnaise","onion","mustard"]
+      ]
+    },
+    {
+      "name": "chickpea stew",
+      "expected_ingredients": ["chickpea","tomato","onion","garlic","olive oil"],
+      "ingredient_variants": [
+        ["chickpea","tomato","onion","garlic","olive oil","cumin"],
+        ["chickpea","tomato","onion","garlic","spinach"]
+      ]
+    },
+    {
+      "name": "stuffed bell pepper",
+      "expected_ingredients": ["bell pepper","beef","rice","tomato","onion"],
+      "ingredient_variants": [
+        ["bell pepper","beef","rice","tomato","onion","cheese"],
+        ["bell pepper","beef","rice","onion","garlic"]
+      ]
+    },
+    {
+      "name": "waldorf salad",
+      "expected_ingredients": ["apple","celery","walnut","mayonnaise","lettuce"],
+      "ingredient_variants": [
+        ["apple","celery","walnut","mayonnaise","lettuce","grape"],
+        ["apple","celery","walnut","yogurt","lettuce"]
+      ]
+    },
+    {
+      "name": "bruschetta",
+      "expected_ingredients": ["bread","tomato","garlic","basil","olive oil"],
+      "ingredient_variants": [
+        ["bread","tomato","garlic","basil","olive oil","vinegar"],
+        ["bread","tomato","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "chicken quesadilla",
+      "expected_ingredients": ["chicken","tortilla","cheese","bell pepper","onion"],
+      "ingredient_variants": [
+        ["chicken","tortilla","cheese","bell pepper","onion","sour cream"],
+        ["chicken","tortilla","cheese","onion"]
+      ]
+    },
+    {
+      "name": "minestrone",
+      "expected_ingredients": ["pasta","tomato","bean","carrot","celery","onion","garlic"],
+      "ingredient_variants": [
+        ["pasta","tomato","bean","carrot","onion","garlic","zucchini"],
+        ["pasta","tomato","bean","carrot","celery","onion","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "shakshuka",
+      "expected_ingredients": ["egg","tomato","onion","bell pepper","garlic"],
+      "ingredient_variants": [
+        ["egg","tomato","onion","bell pepper","garlic","cumin"],
+        ["egg","tomato","onion","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "pesto pasta",
+      "expected_ingredients": ["pasta","basil","olive oil","garlic","parmesan"],
+      "ingredient_variants": [
+        ["pasta","basil","olive oil","garlic","parmesan","pine nut"],
+        ["pasta","basil","olive oil","garlic","parmesan","walnut"]
+      ]
+    },
+    {
+      "name": "gazpacho",
+      "expected_ingredients": ["tomato","cucumber","bell pepper","onion","garlic","olive oil"],
+      "ingredient_variants": [
+        ["tomato","cucumber","bell pepper","onion","garlic","olive oil","vinegar"],
+        ["tomato","cucumber","onion","garlic","olive oil"]
+      ]
+    },
+    {
+      "name": "tabbouleh",
+      "expected_ingredients": ["bulgur","tomato","parsley","onion","lemon","olive oil"],
+      "ingredient_variants": [
+        ["couscous","tomato","parsley","onion","lemon","olive oil"],
+        ["bulgur","tomato","parsley","mint","onion","lemon","olive oil"]
+      ]
+    },
+    {
+      "name": "cheese omelette",
+      "expected_ingredients": ["egg","butter","cheese"],
+      "ingredient_variants": [
+        ["egg","butter","cheese","onion"],
+        ["egg","butter","cheese","milk"]
+      ]
+    },
+    {
+      "name": "pasta carbonara",
+      "expected_ingredients": ["pasta","egg","parmesan","bacon"],
+      "ingredient_variants": [
+        ["pasta","egg","parmesan","bacon","black pepper"],
+        ["pasta","egg","pecorino","guanciale","black pepper"]
+      ]
+    },
+    {
+      "name": "roasted chicken",
+      "expected_ingredients": ["chicken","olive oil","garlic","lemon","rosemary"],
+      "ingredient_variants": [
+        ["chicken","olive oil","garlic","lemon","thyme"],
+        ["chicken","butter","garlic","lemon","rosemary"]
+      ]
+    },
+    {
+      "name": "bean soup",
+      "expected_ingredients": ["bean","onion","carrot","celery","garlic","tomato"],
+      "ingredient_variants": [
+        ["bean","onion","carrot","celery","garlic","tomato","olive oil"],
+        ["bean","onion","garlic","tomato","spinach"]
+      ]
+    },
+    {
+      "name": "mango salsa",
+      "expected_ingredients": ["mango","onion","tomato","lemon","cilantro"],
+      "ingredient_variants": [
+        ["mango","onion","tomato","lime","cilantro"],
+        ["mango","onion","tomato","lemon","bell pepper"]
+      ]
+    }
+  ]
+}

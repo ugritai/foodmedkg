@@ -1,0 +1,33 @@
+match_id,block_id,query,query_es,food_group,food_group_es,matched_food,matched_food_es,score
+M02,1,fettuccine,fettuccine,Cereals and cereal products,Cereales y productos derivados,"Cheese, feta",Queso feta,56.2
+M03,1,garbanzo,garbanzo,Pulses,Legumbres,Guava,Guayaba,55.0
+M04,1,garbanzo bean,garbanzo,Pulses,Legumbres,Green bean,Judía verde,67.1
+M05,1,baby carrot,zanahoria baby,Vegetables,Verduras,Wild carrot,Zanahoria silvestre,78.5
+M06,1,shredded carrot,zanahoria rallada,Vegetables,Verduras,Carrot,Zanahoria,71.2
+M07,1,broccoli florets,ramilletes de brócoli,Vegetables,Verduras,Broccoli,Brócoli,87.3
+M08,1,mineral water,agua mineral,Beverages,Bebidas,"Water, carbonated",Agua con gas,56.7
+M21,1,fuji apple,manzana fuji,Fruits,Frutas,"Apples, Fuji, raw, with skin","Manzana Fuji, cruda, con piel",62.7
+M02,2,fettuccine,fettuccine,Cereals and cereal products,Cereales y productos derivados,"Cheese, feta",Queso feta,56.2
+M03,2,garbanzo,garbanzo,Pulses,Legumbres,Guava,Guayaba,55.0
+M04,2,garbanzo bean,garbanzo,Pulses,Legumbres,Green bean,Judía verde,67.1
+M09,2,sourdough bread,pan de masa madre,Cereals and cereal products,Cereales y productos derivados,"Bread, french or vienna (includes sourdough)",Pan francés o vienés (incluye masa madre),65.7
+M10,2,ground beef,carne picada de vacuno,Animal foods,Alimentos de origen animal,"Beef, grass-fed, ground, raw","Ternera de pasto, picada, cruda",66.3
+M11,2,silken tofu,tofu sedoso,Soy,Soja,"Tofu, soft, VITASOY-silken",Tofu sedoso VITASOY,69.0
+M12,2,salmon fillet,filete de salmón,Aquatic foods,Alimentos acuáticos,"Salmon, salted",Salmón salado,71.3
+M22,2,sesame seeds,semillas de sésamo,Seeds,Semillas,"Sesame seed, decorticated",Semilla de sésamo descascarillada,84.9
+M02,3,fettuccine,fettuccine,Cereals and cereal products,Cereales y productos derivados,"Cheese, feta",Queso feta,56.2
+M03,3,garbanzo,garbanzo,Pulses,Legumbres,Guava,Guayaba,55.0
+M04,3,garbanzo bean,garbanzo,Pulses,Legumbres,Green bean,Judía verde,67.1
+M13,3,fresh garlic,ajo fresco,Herbs and Spices,Hierbas y especias,Garlic,Ajo,74.1
+M14,3,whole milk,leche entera,Milk and milk products,Leche y derivados lácteos,"Milk, whole, cultured",Leche entera fermentada,74.3
+M15,3,pumpkin seeds,semillas de calabaza,Seeds,Semillas,"Pumpkin, canned",Calabaza en conserva,75.2
+M16,3,raw walnut,nuez cruda,Nuts,Frutos secos,Walnuts,Nueces,79.5
+M23,3,raw shrimp,gambas crudas,Aquatic foods,Alimentos acuáticos,"Crustaceans, shrimp, raw","Crustáceos, gambas, crudas",82.8
+M02,4,fettuccine,fettuccine,Cereals and cereal products,Cereales y productos derivados,"Cheese, feta",Queso feta,56.2
+M03,4,garbanzo,garbanzo,Pulses,Legumbres,Guava,Guayaba,55.0
+M04,4,garbanzo bean,garbanzo,Pulses,Legumbres,Green bean,Judía verde,67.1
+M17,4,extra virgin olive oil,aceite de oliva virgen extra,Herbs and Spices,Hierbas y especias,"Olive oil, extra-virgin",Aceite de oliva virgen extra,83.7
+M18,4,cheddar cheese,queso cheddar,Milk and milk products,Leche y derivados lácteos,"Cheese, cheddar",Queso cheddar,84.4
+M19,4,flax seeds,semillas de lino,Seeds,Semillas,Flaxseed,Semillas de lino,85.8
+M20,4,raw almond,almendra cruda,Nuts,Frutos secos,"Almond, raw",Almendra cruda,86.3
+M24,4,dark chocolate,chocolate negro,Cocoa and cocoa products,Cacao y derivados,Chocolate,Chocolate,81.8

@@ -1,0 +1,1950 @@
+{
+  "recipes": [
+    {
+      "name": "spaghetti bolognese",
+      "expected_ingredients": [
+        "pasta",
+        "beef",
+        "tomato",
+        "onion",
+        "garlic",
+        "carrot",
+        "celery",
+        "olive oil"
+      ],
+      "ingredient_variants": [
+        [
+          "pasta",
+          "beef",
+          "tomato",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        [
+          "pasta",
+          "beef",
+          "tomato",
+          "onion",
+          "garlic",
+          "carrot",
+          "celery",
+          "red wine",
+          "olive oil"
+        ]
+      ]
+    },
+    {
+      "name": "caesar salad",
+      "expected_ingredients": [
+        "lettuce",
+        "chicken",
+        "parmesan",
+        "egg",
+        "lemon",
+        "garlic"
+      ],
+      "ingredient_variants": [
+        [
+          "lettuce",
+          "chicken",
+          "parmesan",
+          "egg",
+          "anchovy",
+          "lemon",
+          "garlic"
+        ],
+        [
+          "lettuce",
+          "chicken",
+          "parmesan",
+          "egg",
+          "lemon",
+          "garlic",
+          "bread"
+        ]
+      ]
+    },
+    {
+      "name": "margherita pizza",
+      "expected_ingredients": [
+        "flour",
+        "tomato",
+        "mozzarella",
+        "basil",
+        "olive oil"
+      ],
+      "ingredient_variants": [
+        [
+          "flour",
+          "tomato",
+          "mozzarella",
+          "basil",
+          "olive oil",
+          "yeast"
+        ],
+        [
+          "flour",
+          "tomato",
+          "mozzarella",
+          "olive oil"
+        ]
+      ]
+    },
+    {
+      "name": "french omelette",
+      "expected_ingredients": [
+        "egg",
+        "butter"
+      ],
+      "ingredient_variants": [
+        [
+          "egg",
+          "butter",
+          "cream"
+        ],
+        [
+          "egg",
+          "butter",
+          "parsley"
+        ]
+      ]
+    },
+    {
+      "name": "chicken stir-fry",
+      "expected_ingredients": [
+        "chicken",
+        "broccoli",
+        "bell pepper",
+        "garlic",
+        "ginger",
+        "sesame oil"
+      ],
+      "ingredient_variants": [
+        [
+          "chicken",
+          "broccoli",
+          "bell pepper",
+          "garlic",
+          "ginger",
+          "sesame oil",
+          "soy sauce"
+        ],
+        [
+          "chicken",
+          "carrot",
+          "broccoli",
+          "garlic",
+          "ginger",
+          "soy sauce"
+        ]
+      ]
+    },
+    {
+      "name": "greek salad",
+      "expected_ingredients": [
+        "tomato",
+        "cucumber",
+        "onion",
+        "olive",
+        "feta",
+        "olive oil"
+      ],
+      "ingredient_variants": [
+        [
+          "tomato",
+          "cucumber",
+          "onion",
+          "olive",
+          "feta",
+          "olive oil",
+          "bell pepper"
+        ],
+        [
+          "tomato",
+          "cucumber",
+          "onion",
+          "olive",
+          "feta",
+          "olive oil",
+          "oregano"
+        ]
+      ]
+    },
+    {
+      "name": "beef burger",
+      "expected_ingredients": [
+        "beef",
+        "bread",
+        "lettuce",
+        "tomato",
+        "onion",
+        "cheese"
+      ],
+      "ingredient_variants": [
+        [
+          "beef",
+          "bread",
+          "lettuce",
+          "tomato",
+          "onion",
+          "cheese",
+          "mayonnaise"
+        ],
+        [
+          "beef",
+          "bread",
+          "tomato",
+          "onion",
+          "cheese"
+        ]
+      ]
+    },
+    {
+      "name": "lentil soup",
+      "expected_ingredients": [
+        "lentil",
+        "onion",
+        "carrot",
+        "celery",
+        "tomato",
+        "garlic"
+      ],
+      "ingredient_variants": [
+        [
+          "lentil",
+          "onion",
+          "carrot",
+          "celery",
+          "tomato",
+          "garlic",
+          "cumin"
+        ],
+        [
+          "lentil",
+          "onion",
+          "carrot",
+          "tomato",
+          "garlic",
+          "olive oil"
+        ]
+      ]
+    },
+    {
+      "name": "banana pancakes",
+      "expected_ingredients": [
+        "banana",
+        "egg",
+        "flour",
+        "milk",
+        "butter"
+      ],
+      "ingredient_variants": [
+        [
+          "banana",
+          "egg"
+        ],
+        [
+          "banana",
+          "egg",
+          "flour",
+          "milk",
+          "butter",
+          "baking powder"
+        ]
+      ]
+    },
+    {
+      "name": "caprese salad",
+      "expected_ingredients": [
+        "tomato",
+        "mozzarella",
+        "basil",
+        "olive oil"
+      ],
+      "ingredient_variants": [
+        [
+          "tomato",
+          "mozzarella",
+          "basil",
+          "olive oil",
+          "vinegar"
+        ],
+        [
+          "tomato",
+          "mozzarella",
+          "basil",
+          "olive oil",
+          "salt"
+        ]
+      ]
+    },
+    {
+      "name": "avocado toast",
+      "expected_ingredients": [
+        "avocado",
+        "bread",
+        "egg",
+        "lemon"
+      ],
+      "ingredient_variants": [
+        [
+          "avocado",
+          "bread",
+          "lemon",
+          "olive oil"
+        ],
+        [
+          "avocado",
+          "bread",
+          "egg",
+          "lemon",
+          "tomato"
+        ]
+      ]
+    },
+    {
+      "name": "tuna salad",
+      "expected_ingredients": [
+        "tuna",
+        "mayonnaise",
+        "celery",
+        "onion",
+        "lemon"
+      ],
+      "ingredient_variants": [
+        [
+          "tuna",
+          "mayonnaise",
+          "celery",
+          "onion",
+          "lemon",
+          "cucumber"
+        ],
+        [
+          "tuna",
+          "mayonnaise",
+          "onion",
+          "lemon"
+        ]
+      ]
+    },
+    {
+      "name": "beef tacos",
+      "expected_ingredients": [
+        "beef",
+        "tortilla",
+        "tomato",
+        "lettuce",
+        "cheese",
+        "onion"
+      ],
+      "ingredient_variants": [
+        [
+          "beef",
+          "tortilla",
+          "tomato",
+          "lettuce",
+          "cheese",
+          "onion",
+          "avocado"
+        ],
+        [
+          "beef",
+          "tortilla",
+          "tomato",
+          "lettuce",
+          "cheese",
+          "onion",
+          "lime"
+        ]
+      ]
+    },
+    {
+      "name": "vegetable curry",
+      "expected_ingredients": [
+        "potato",
+        "cauliflower",
+        "tomato",
+        "onion",
+        "garlic",
+        "ginger",
+        "coconut milk"
+      ],
+      "ingredient_variants": [
+        [
+          "potato",
+          "cauliflower",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger",
+          "coconut milk",
+          "pea"
+        ],
+        [
+          "potato",
+          "spinach",
+          "tomato",
+          "onion",
+          "garlic",
+          "ginger",
+          "coconut milk"
+        ]
+      ]
+    },
+    {
+      "name": "french toast",
+      "expected_ingredients": [
+        "bread",
+        "egg",
+        "milk",
+        "butter",
+        "cinnamon"
+      ],
+      "ingredient_variants": [
+        [
+          "bread",
+          "egg",
+          "milk",
+          "butter",
+          "cinnamon",
+          "maple syrup"
+        ],
+        [
+          "bread",
+          "egg",
+          "milk",
+          "butter",
+          "vanilla"
+        ]
+      ]
+    }
+  ],
+  "matching_queries": [
+    {
+      "query": "broccoli",
+      "key_words": [
+        "broccoli"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "broccoli florets",
+      "key_words": [
+        "broccoli"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "fresh broccoli",
+      "key_words": [
+        "broccoli"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "broccoli head",
+      "key_words": [
+        "broccoli"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "broccolis",
+      "key_words": [
+        "broccoli"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "carrot",
+      "key_words": [
+        "carrot"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "carrots",
+      "key_words": [
+        "carrot"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "baby carrot",
+      "key_words": [
+        "carrot"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "shredded carrot",
+      "key_words": [
+        "carrot"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "julienned carrot",
+      "key_words": [
+        "carrot"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "spinach",
+      "key_words": [
+        "spinach"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "spinach leaf",
+      "key_words": [
+        "spinach"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "baby spinach",
+      "key_words": [
+        "spinach"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "fresh spinach",
+      "key_words": [
+        "spinach"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "spinach leaves",
+      "key_words": [
+        "spinach"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "tomato",
+      "key_words": [
+        "tomato"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "tomatoes",
+      "key_words": [
+        "tomato"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "cherry tomato",
+      "key_words": [
+        "tomato"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "fresh tomato",
+      "key_words": [
+        "tomato"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "diced tomato",
+      "key_words": [
+        "tomato"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "onion",
+      "key_words": [
+        "onion"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "onions",
+      "key_words": [
+        "onion"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "white onion",
+      "key_words": [
+        "onion"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "yellow onion",
+      "key_words": [
+        "onion"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "diced onion",
+      "key_words": [
+        "onion"
+      ],
+      "group": "Vegetables"
+    },
+    {
+      "query": "apple",
+      "key_words": [
+        "apple"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "apples",
+      "key_words": [
+        "apple"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "fuji apple",
+      "group": "Fruits",
+      "key_words": [
+        "apple"
+      ]
+    },
+    {
+      "query": "fresh apple",
+      "key_words": [
+        "apple"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "orange",
+      "key_words": [
+        "orange"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "oranges",
+      "key_words": [
+        "orange"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "navel orange",
+      "key_words": [
+        "orange"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "fresh orange",
+      "key_words": [
+        "orange"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "banana",
+      "key_words": [
+        "banana"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "bananas",
+      "key_words": [
+        "banana"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "ripe banana",
+      "key_words": [
+        "banana"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "fresh banana",
+      "key_words": [
+        "banana"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "lemon",
+      "key_words": [
+        "lemon"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "lemons",
+      "key_words": [
+        "lemon"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "fresh lemon",
+      "key_words": [
+        "lemon"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "lemon wedge",
+      "key_words": [
+        "lemon"
+      ],
+      "group": "Fruits"
+    },
+    {
+      "query": "salmon",
+      "key_words": [
+        "salmon"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "salmon fillet",
+      "key_words": [
+        "salmon"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "fresh salmon",
+      "key_words": [
+        "salmon"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "raw salmon",
+      "key_words": [
+        "salmon"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "tuna",
+      "key_words": [
+        "tuna"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "tuna fish",
+      "key_words": [
+        "tuna"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "fresh tuna",
+      "key_words": [
+        "tuna"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "raw tuna",
+      "key_words": [
+        "tuna"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "sardine",
+      "key_words": [
+        "sardine"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "sardines",
+      "key_words": [
+        "sardine"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "fresh sardine",
+      "key_words": [
+        "sardine"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "canned sardines",
+      "key_words": [
+        "sardine"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "shrimp",
+      "key_words": [
+        "shrimp"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "shrimps",
+      "key_words": [
+        "shrimp"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "fresh shrimp",
+      "key_words": [
+        "shrimp"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "raw shrimp",
+      "key_words": [
+        "shrimp"
+      ],
+      "group": "Aquatic foods"
+    },
+    {
+      "query": "chicken",
+      "key_words": [
+        "chicken"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "chicken breast",
+      "key_words": [
+        "chicken"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "raw chicken",
+      "key_words": [
+        "chicken"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "fresh chicken",
+      "key_words": [
+        "chicken"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "beef",
+      "key_words": [
+        "beef"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "ground beef",
+      "key_words": [
+        "beef"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "lean beef",
+      "key_words": [
+        "beef"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "beef steak",
+      "key_words": [
+        "beef"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "pork",
+      "key_words": [
+        "pork"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "pork chop",
+      "key_words": [
+        "pork"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "lean pork",
+      "key_words": [
+        "pork"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "raw pork",
+      "key_words": [
+        "pork"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "turkey",
+      "key_words": [
+        "turkey"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "turkey breast",
+      "key_words": [
+        "turkey"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "ground turkey",
+      "key_words": [
+        "turkey"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "raw turkey",
+      "key_words": [
+        "turkey"
+      ],
+      "group": "Animal foods"
+    },
+    {
+      "query": "rice",
+      "key_words": [
+        "rice"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "white rice",
+      "key_words": [
+        "rice"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "brown rice",
+      "key_words": [
+        "rice"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "basmati rice",
+      "key_words": [
+        "rice"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "oat",
+      "key_words": [
+        "oat"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "oats",
+      "key_words": [
+        "oat"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "rolled oats",
+      "key_words": [
+        "oat"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "oatmeal",
+      "key_words": [
+        "oat"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "pasta",
+      "key_words": [
+        "pasta",
+        "spaghetti",
+        "macaroni",
+        "penne",
+        "linguine"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "spaghetti",
+      "key_words": [
+        "pasta",
+        "spaghetti",
+        "macaroni",
+        "penne",
+        "linguine"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "penne",
+      "key_words": [
+        "pasta",
+        "spaghetti",
+        "macaroni",
+        "penne",
+        "linguine"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "fettuccine",
+      "group": "Cereals and cereal products",
+      "key_words": [
+        "pasta",
+        "fettuccine"
+      ]
+    },
+    {
+      "query": "bread",
+      "key_words": [
+        "bread"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "whole wheat bread",
+      "key_words": [
+        "bread"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "sourdough bread",
+      "key_words": [
+        "bread"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "white bread",
+      "key_words": [
+        "bread"
+      ],
+      "group": "Cereals and cereal products"
+    },
+    {
+      "query": "milk",
+      "key_words": [
+        "milk"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "whole milk",
+      "key_words": [
+        "milk"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "cow milk",
+      "key_words": [
+        "milk"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "skimmed milk",
+      "key_words": [
+        "milk"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "cheese",
+      "key_words": [
+        "cheese"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "cheddar cheese",
+      "key_words": [
+        "cheese",
+        "cheddar"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "parmesan cheese",
+      "key_words": [
+        "cheese",
+        "parmesan"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "mozzarella",
+      "key_words": [
+        "cheese",
+        "mozzarella"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "yogurt",
+      "key_words": [
+        "yogurt"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "greek yogurt",
+      "key_words": [
+        "yogurt"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "plain yogurt",
+      "key_words": [
+        "yogurt"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "natural yogurt",
+      "key_words": [
+        "yogurt"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "butter",
+      "key_words": [
+        "butter"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "unsalted butter",
+      "key_words": [
+        "butter"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "salted butter",
+      "key_words": [
+        "butter"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "dairy butter",
+      "key_words": [
+        "butter"
+      ],
+      "group": "Milk and milk products"
+    },
+    {
+      "query": "almond",
+      "key_words": [
+        "almond"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "almonds",
+      "key_words": [
+        "almond"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "raw almond",
+      "key_words": [
+        "almond"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "blanched almond",
+      "key_words": [
+        "almond"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "walnut",
+      "key_words": [
+        "walnut"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "walnuts",
+      "key_words": [
+        "walnut"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "raw walnut",
+      "key_words": [
+        "walnut"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "english walnut",
+      "key_words": [
+        "walnut"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "cashew",
+      "key_words": [
+        "cashew"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "cashews",
+      "key_words": [
+        "cashew"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "raw cashew",
+      "key_words": [
+        "cashew"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "cashew nut",
+      "key_words": [
+        "cashew"
+      ],
+      "group": "Nuts"
+    },
+    {
+      "query": "lentil",
+      "key_words": [
+        "lentil"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "lentils",
+      "key_words": [
+        "lentil"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "red lentil",
+      "key_words": [
+        "lentil"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "green lentil",
+      "key_words": [
+        "lentil"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "chickpea",
+      "key_words": [
+        "chickpea",
+        "garbanzo"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "chickpeas",
+      "key_words": [
+        "chickpea",
+        "garbanzo"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "garbanzo",
+      "key_words": [
+        "chickpea",
+        "garbanzo"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "garbanzo bean",
+      "key_words": [
+        "chickpea",
+        "garbanzo"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "bean",
+      "key_words": [
+        "bean"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "kidney bean",
+      "key_words": [
+        "bean"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "white bean",
+      "key_words": [
+        "bean"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "black bean",
+      "key_words": [
+        "bean"
+      ],
+      "group": "Pulses"
+    },
+    {
+      "query": "garlic",
+      "key_words": [
+        "garlic"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "garlic clove",
+      "key_words": [
+        "garlic"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "fresh garlic",
+      "key_words": [
+        "garlic"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "minced garlic",
+      "key_words": [
+        "garlic"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "ginger",
+      "key_words": [
+        "ginger"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "fresh ginger",
+      "key_words": [
+        "ginger"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "ginger root",
+      "key_words": [
+        "ginger"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "ground ginger",
+      "key_words": [
+        "ginger"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "olive oil",
+      "key_words": [
+        "olive"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "extra virgin olive oil",
+      "key_words": [
+        "olive"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "virgin olive oil",
+      "key_words": [
+        "olive"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "cold-pressed olive oil",
+      "key_words": [
+        "olive"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "cinnamon",
+      "key_words": [
+        "cinnamon"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "ground cinnamon",
+      "key_words": [
+        "cinnamon"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "cinnamon stick",
+      "key_words": [
+        "cinnamon"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "ceylon cinnamon",
+      "key_words": [
+        "cinnamon"
+      ],
+      "group": "Herbs and Spices"
+    },
+    {
+      "query": "egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "eggs",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "boiled egg",
+      "group": "Eggs",
+      "key_words": [
+        "egg"
+      ]
+    },
+    {
+      "query": "whole egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "wine",
+      "key_words": [
+        "wine"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "red wine",
+      "key_words": [
+        "wine"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "white wine",
+      "key_words": [
+        "wine"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "water",
+      "key_words": [
+        "water"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "mineral water",
+      "key_words": [
+        "water"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "sparkling water",
+      "key_words": [
+        "water"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "beer",
+      "key_words": [
+        "beer"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "lager beer",
+      "key_words": [
+        "beer"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "craft beer",
+      "key_words": [
+        "beer"
+      ],
+      "group": "Beverages"
+    },
+    {
+      "query": "tofu",
+      "key_words": [
+        "tofu"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "firm tofu",
+      "key_words": [
+        "tofu"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "silken tofu",
+      "key_words": [
+        "tofu"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "soy milk",
+      "key_words": [
+        "soy"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "soya milk",
+      "key_words": [
+        "soy"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "soymilk",
+      "key_words": [
+        "soy"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "dark chocolate",
+      "key_words": [
+        "chocolate",
+        "cocoa"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "milk chocolate",
+      "key_words": [
+        "chocolate",
+        "cocoa"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "cocoa powder",
+      "key_words": [
+        "cocoa"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "cocoa",
+      "key_words": [
+        "cocoa"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "cacao",
+      "key_words": [
+        "cocoa",
+        "cacao"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "raw cocoa",
+      "key_words": [
+        "cocoa"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "sugar",
+      "key_words": [
+        "sugar"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "white sugar",
+      "key_words": [
+        "sugar"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "brown sugar",
+      "key_words": [
+        "sugar"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "vinegar",
+      "key_words": [
+        "vinegar"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "red wine vinegar",
+      "group": "Baking goods",
+      "key_words": [
+        "vinegar"
+      ]
+    },
+    {
+      "query": "balsamic vinegar",
+      "key_words": [
+        "vinegar"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "egg white",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "egg yolk",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "raw egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "beaten egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "free-range egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "organic egg",
+      "key_words": [
+        "egg"
+      ],
+      "group": "Eggs"
+    },
+    {
+      "query": "flour",
+      "key_words": [
+        "flour"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "wheat flour",
+      "key_words": [
+        "flour"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "all-purpose flour",
+      "key_words": [
+        "flour"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "honey",
+      "key_words": [
+        "honey"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "raw honey",
+      "key_words": [
+        "honey"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "acacia honey",
+      "key_words": [
+        "honey"
+      ],
+      "group": "Baking goods"
+    },
+    {
+      "query": "chocolate chip",
+      "key_words": [
+        "chocolate"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "white chocolate",
+      "key_words": [
+        "chocolate"
+      ],
+      "group": "Cocoa and cocoa products"
+    },
+    {
+      "query": "edamame",
+      "key_words": [
+        "edamame",
+        "soy"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "soy sauce",
+      "key_words": [
+        "soy"
+      ],
+      "group": "Soy"
+    },
+    {
+      "query": "chia seeds",
+      "group": "Seeds",
+      "key_words": [
+        "chia",
+        "seed"
+      ]
+    },
+    {
+      "query": "chia seed",
+      "group": "Seeds",
+      "key_words": [
+        "chia",
+        "seed"
+      ]
+    },
+    {
+      "query": "flax seeds",
+      "group": "Seeds",
+      "key_words": [
+        "flax",
+        "seed"
+      ]
+    },
+    {
+      "query": "flaxseed",
+      "group": "Seeds",
+      "key_words": [
+        "flax",
+        "seed"
+      ]
+    },
+    {
+      "query": "pumpkin seeds",
+      "group": "Seeds",
+      "key_words": [
+        "pumpkin",
+        "seed"
+      ]
+    },
+    {
+      "query": "sesame seeds",
+      "group": "Seeds",
+      "key_words": [
+        "sesame",
+        "seed"
+      ]
+    },
+    {
+      "query": "sunflower seeds",
+      "group": "Seeds",
+      "key_words": [
+        "sunflower",
+        "seed"
+      ]
+    },
+    {
+      "query": "hemp seeds",
+      "group": "Seeds",
+      "key_words": [
+        "hemp",
+        "seed"
+      ]
+    }
+  ],
+  "kg_ground_truth": [
+    {
+      "food_name": "broccoli",
+      "disease": "cancer",
+      "suitable": true,
+      "note": "Anti-cancer glucosinolates"
+    },
+    {
+      "food_name": "broccoli",
+      "disease": "breast cancer",
+      "suitable": true,
+      "note": "Sulforaphane activity"
+    },
+    {
+      "food_name": "broccoli",
+      "disease": "colorectal cancer",
+      "suitable": true,
+      "note": "Dietary fibre and phytochemicals"
+    },
+    {
+      "food_name": "spinach",
+      "disease": "cancer",
+      "suitable": true,
+      "note": "Antioxidant and folate content"
+    },
+    {
+      "food_name": "spinach",
+      "disease": "anemia",
+      "suitable": true,
+      "note": "Iron and folate source"
+    },
+    {
+      "food_name": "almond",
+      "disease": "coronary heart disease",
+      "suitable": true,
+      "note": "Monounsaturated fats and vitamin E"
+    },
+    {
+      "food_name": "almond",
+      "disease": "high cholesterol",
+      "suitable": true,
+      "note": "LDL-lowering effect"
+    },
+    {
+      "food_name": "sugar",
+      "disease": "caries",
+      "suitable": false,
+      "note": "Direct cariogenic effect"
+    },
+    {
+      "food_name": "sugar",
+      "disease": "alzheimer's disease",
+      "suitable": false,
+      "note": "Metabolic inflammation link"
+    },
+    {
+      "food_name": "added salt",
+      "disease": "high blood pressure",
+      "suitable": false,
+      "note": "Sodium-hypertension relationship"
+    },
+    {
+      "food_name": "added salt",
+      "disease": "hypertension",
+      "suitable": false,
+      "note": "Direct sodium effect"
+    },
+    {
+      "food_name": "albacore tuna",
+      "disease": "cancer",
+      "suitable": true,
+      "note": "Omega-3 anti-inflammatory effects"
+    },
+    {
+      "food_name": "albacore tuna",
+      "disease": "ischemic heart disease",
+      "suitable": true,
+      "note": "Omega-3 cardioprotective effects"
+    },
+    {
+      "food_name": "apple juice",
+      "disease": "cardiovascular diseases",
+      "suitable": true,
+      "note": "Polyphenol content"
+    },
+    {
+      "food_name": "apple juice",
+      "disease": "type 2 diabetes",
+      "suitable": true,
+      "note": "Quercetin insulin sensitivity"
+    }
+  ]
+}
